@@ -1,1 +1,1 @@
-# Learnship
+# Stock tracker
